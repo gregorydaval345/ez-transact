@@ -11,3 +11,7 @@ A mobile application that utilizes USSD Technology to perform basic simple Banki
 	and building your USSD apps.
 	- SMS Feature – when user has completed the steps to open a Savings Account,
 	an SMS text message will be sent to their device with Account Information.
+
+
+# You will need to setup your environment:
+Using the open source API from : https://africastalking.com/
